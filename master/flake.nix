@@ -9,7 +9,7 @@
   
   inputs.src-std_shims-master.flake = false;
   inputs.src-std_shims-master.owner = "status-im";
-  inputs.src-std_shims-master.ref   = "refs/heads/master";
+  inputs.src-std_shims-master.ref   = "master";
   inputs.src-std_shims-master.repo  = "nim-std-shims";
   inputs.src-std_shims-master.type  = "github";
   
